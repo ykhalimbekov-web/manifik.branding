@@ -5,7 +5,7 @@ import path from 'node:path';
 
 const root = fileURLToPath(new URL('../', import.meta.url));
 const port = Number(process.env.PORT || 4173);
-const allowed = new Set(['index.html', 'onda.html', 'iz-korzinki.html', 'linkedin-cover.html', 'styles.css', 'case.css', 'app.js']);
+const allowed = new Set(['index.html', 'onda.html', 'iz-korzinki.html', 'chefgourmet.html', 'linkedin-cover.html', 'styles.css', 'case.css', 'app.js']);
 const types = { '.html':'text/html; charset=utf-8', '.css':'text/css; charset=utf-8', '.js':'text/javascript; charset=utf-8', '.svg':'image/svg+xml', '.woff2':'font/woff2', '.ttf':'font/ttf' };
 createServer(async (req, res) => {
   try {
