@@ -1,0 +1,69 @@
+{
+  "fileKey": "WVPnwk9WcQrKTAmWtbYAm9",
+  "url": "https://www.figma.com/design/WVPnwk9WcQrKTAmWtbYAm9?node-id=2-9",
+  "team": "Work",
+  "status": "mobile_and_prototypes_complete",
+  "desktopDigestBeforePrototype": "146eeec6",
+  "mobile": {
+    "id": "16:16",
+    "width": 390,
+    "height": 4000.0546875,
+    "hero": "16:17",
+    "work": "16:38",
+    "studio": "16:136",
+    "contact": "16:150",
+    "qaMissingFonts": [],
+    "qaFrameOverflow": []
+  },
+  "nodes": {
+    "desktop": "2:9",
+    "hero": "2:10",
+    "work": "2:11",
+    "studio": "2:12",
+    "contact": "2:13",
+    "footer": "8:24",
+    "navButton": "2:27",
+    "contactButton": "8:22",
+    "navProjects": "2:24",
+    "navStudio": "2:25",
+    "navServices": "2:26",
+    "heroWorkLink": "3:8",
+    "serviceRow": "7:46",
+    "buttonSet": "2:20",
+    "buttonDefault": "2:14",
+    "projectCaption": "5:32",
+    "ondaArt": "4:7",
+    "formaArt": "5:44",
+    "seraArt": "5:51"
+  },
+  "remaining": [],
+  "palette": {
+    "ink": "#152C42",
+    "ice": "#E3F0F6",
+    "blue": "#2458E8",
+    "paper": "#F7F8F4",
+    "lime": "#D9FF70",
+    "muted": "#586E7D"
+  },
+  "fontFamilies": [
+    "Manrope",
+    "Space Grotesk",
+    "IBM Plex Mono"
+  ],
+  "notes": [
+    "Original desktop 2:9 preserved at user request; digest 146eeec6 unchanged.",
+    "Onda, Forma and Séra are original concept examples, not claimed clients.",
+    "Mobile built as editable Figma auto-layout with native artwork and components.",
+    "Brief fields and disabled submit are a design demonstration; real input and sending require website implementation.",
+    "Native presentation tested: mobile menu, projects/contact scroll, mobile brief open/close, desktop project scroll and brief open/close.",
+    "Mobile QA: 61 text nodes, no missing fonts and no auto-layout horizontal overflow."
+  ],
+  "prototypes": {
+    "mobile": "16:182",
+    "desktop": "16:315",
+    "menu": "20:492",
+    "mobileBrief": "20:654",
+    "desktopBrief": "20:676",
+    "verified": true
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "desktopDigest": "146eeec6",
+  "checks": [
+    {
+      "id": "25:71",
+      "name": "Case · Onda · Desktop",
+      "width": 1440,
+      "height": 6410.3095703125,
+      "sections": [
+        {
+          "id": "25:72",
+          "name": "Onda / Introduction",
+          "height": 652
+        },
+        {
+          "id": "25:82",
+          "name": "Onda / Cover",
+          "height": 650.6024169921875
+        },
+        {
+          "id": "25:153",
+          "name": "Onda / Story",
+          "height": 353
+        },
+        {
+          "id": "25:162",
+          "name": "Onda / Brand idea",
+          "height": 579
+        },
+        {
+          "id": "25:179",
+          "name": "Onda / Visual system",
+          "height": 1420
+        },
+        {
+          "id": "25:221",
+          "name": "Onda / Packaging",
+          "height": 1564.707275390625
+        },
+        {
+          "id": "25:252",
+          "name": "Onda / Design outcome",
+          "height": 568
+        },
+        {
+          "id": "25:257",
+          "name": "Onda / Closing",
+          "height": 623
+        }
+      ],
+      "missingFonts": [],
+      "overflow": [],
+      "fonts": [
+        "{\"family\":\"Space Grotesk\",\"style\":\"Bold\"}",
+        "{\"family\":\"Manrope\",\"style\":\"SemiBold\"}",
+        "{\"family\":\"IBM Plex Mono\",\"style\":\"Regular\"}",
+        "{\"family\":\"Manrope\",\"style\":\"Medium\"}",
+        "{\"family\":\"Manrope\",\"style\":\"Regular\"}"
+      ]
+    },
+    {
+      "id": "25:112",
+      "name": "Case · Onda · Mobile",
+      "width": 390,
+      "height": 4272.19140625,
+      "sections": [
+        {
+          "id": "25:113",
+          "name": "Onda / Introduction",
+          "height": 359
+        },
+        {
+          "id": "25:123",
+          "name": "Onda / Cover",
+          "height": 478.9473571777344
+        },
+        {
+          "id": "25:166",
+          "name": "Onda / Story",
+          "height": 579
+        },
+        {
+          "id": "25:175",
+          "name": "Onda / Brand idea",
+          "height": 370
+        },
+        {
+          "id": "25:200",
+          "name": "Onda / Visual system",
+          "height": 961
+        },
+        {
+          "id": "25:263",
+          "name": "Onda / Packaging",
+          "height": 672.243896484375
+        },
+        {
+          "id": "25:294",
+          "name": "Onda / Design outcome",
+          "height": 422
+        },
+        {
+          "id": "25:299",
+          "name": "Onda / Closing",
+          "height": 430
+        }
+      ],
+      "missingFonts": [],
+      "overflow": [],
+      "fonts": [
+        "{\"family\":\"Space Grotesk\",\"style\":\"Bold\"}",
+        "{\"family\":\"Manrope\",\"style\":\"SemiBold\"}",
+        "{\"family\":\"IBM Plex Mono\",\"style\":\"Regular\"}",
+        "{\"family\":\"Manrope\",\"style\":\"Medium\"}",
+        "{\"family\":\"Manrope\",\"style\":\"Regular\"}"
+      ]
+    }
+  ],
+  "prototypes": [
+    {
+      "id": "25:305",
+      "name": "Case · Onda · Desktop · Prototype"
+    },
+    {
+      "id": "25:427",
+      "name": "Case · Onda · Mobile · Prototype"
+    }
+  ],
+  "status": "design_complete",
+  "verification": [
+    "Mobile visually inspected section by section.",
+    "Desktop story columns now hug content; both paragraphs visually verified.",
+    "Desktop portfolio Onda cover opens case; All projects returns to portfolio.",
+    "Original homepage preserved, digest 146eeec6.",
+    "Earlier height values in checks predate final horizontal auto-layout repair."
+  ]
+}
